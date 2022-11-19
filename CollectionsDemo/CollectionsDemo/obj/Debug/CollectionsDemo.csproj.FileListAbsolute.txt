@@ -1,0 +1,16 @@
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\rishavraj7\Desktop\Desktop\.Net\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
