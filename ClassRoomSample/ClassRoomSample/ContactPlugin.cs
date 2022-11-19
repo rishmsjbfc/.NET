@@ -23,7 +23,7 @@ namespace ClassRoomSample
             ITracingService tracingService = (ITracingService)
                 serviceProvider.GetService(typeof(ITracingService));
             
-            if(context.InputParameters.Contains("Taraget") && context.InputParameters["Target"] is Entity)
+            if(context.InputParameters.Contains("Target") && context.InputParameters["Target"] is Entity)
             {
                 // Obtain the target entity from the input parameters.
                 Entity entity = (Entity)context.InputParameters["Target"];
