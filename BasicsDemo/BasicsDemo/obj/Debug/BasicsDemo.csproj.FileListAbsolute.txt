@@ -1,0 +1,8 @@
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\bin\Debug\BasicsDemo.exe.config
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\bin\Debug\BasicsDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\bin\Debug\BasicsDemo.pdb
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\obj\Debug\BasicsDemo.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\obj\Debug\BasicsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\obj\Debug\BasicsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\obj\Debug\BasicsDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\BasicsDemo\BasicsDemo\obj\Debug\BasicsDemo.pdb
