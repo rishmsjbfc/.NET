@@ -1,0 +1,12 @@
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\bin\Debug\Demo1.dll
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\bin\Debug\Demo1.pdb
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.dll
+C:\Users\rishavraj7\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.dll
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\obj\Debug\Demo1.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\bin\Debug\Demo1.dll
+C:\Users\rishavraj7\Desktop\Desktop\.Net\Serialization\Demo1\bin\Debug\Demo1.pdb
