@@ -1,0 +1,16 @@
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.exe.config
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.pdb
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.exe
+C:\Users\rishavraj7\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.exe.config
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.exe
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\bin\Debug\LINQDemo.pdb
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.exe
+C:\Users\rishavraj7\Desktop\Desktop\.Net\LINQDemo\LINQDemo\obj\Debug\LINQDemo.pdb
